@@ -1,0 +1,94 @@
+{
+    "basics": {
+        "name": "Harsh Jaiswal",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2023@iiitkota.ac.in",
+        "phone": "+916387978103",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics &  Communication engineering. Building awesome WebApp. I have enthusiasm in coding,robotics and 3d modeling.",
+        "location": {
+            "address": "Gajiganj Mandi",
+            "postalCode": "313301",
+            "city": "Prayagraj",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+               
+            {
+                
+            },
+            {
+            },
+            {
+                
+            }
+        ]
+    },
+    "work": [
+        {
+           
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.4",
+            "courses": [
+                "Electronics & Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            
+        }
+    ],
+    "publications": [
+        {
+           
+        }
+    ],
+    "skills": [
+        {
+            "name": "Currently",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "MySQL",
+                "C/C++",            
+                "Python",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "ARTIST",
+            "keywords": [
+                "3d modeling"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Cricket"
+
+            ]
+        }
+    ]
+}
